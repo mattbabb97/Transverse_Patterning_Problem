@@ -1,0 +1,2 @@
+monkey,date,time,test_condition,stepwise_phase,block,trial_number,trial_type,response_time,response_side,correct_or_incorrect,consecutive_90%
+Matt,2023-06-29,20:05:50,full,3,1,1,1,0.841,left,1,0
